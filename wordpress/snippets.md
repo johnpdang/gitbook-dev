@@ -1,5 +1,11 @@
 # Snippets
 
+### Locally add new admin user using functions.php
+
+```
+wp_insert_user(array('user_pass' => 'password_here', 'user_login' => 'username_here', 'user_email' => 'mail@email.com', 'role' => 'administrator'));
+```
+
 ### PHP
 
 {% tabs %}
@@ -105,7 +111,7 @@ $html .= '</figure>';
 {% endtab %}
 
 {% tab title="title" %}
-{% code title="page title \| site name" %}
+{% code title="page title | site name" %}
 ```php
 <title>	<?php wp_title('|',true,'right'); bloginfo('name'); ?></title>
 ```
@@ -157,7 +163,6 @@ _Where the custom post type is “beer”_
 {% endtab %}
 {% endtabs %}
 
-```text
+```
 wp-json/wp/v2/posts
 ```
-
