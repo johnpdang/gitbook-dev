@@ -35,6 +35,7 @@
 * [Favicon](favicon/README.md)
   * [Slider](favicon/slider/README.md)
     * [Slick](favicon/slider/slick.md)
+* [Fileshare](fileshare.md)
 * [Fonts](fonts.md)
 * [Forms](forms.md)
 * [Git](git.md)
@@ -77,4 +78,3 @@
     * [ACF](wordpress/plugins/acf.md)
   * [Snippets](wordpress/snippets.md)
   * [Themes](wordpress/themes.md)
-
