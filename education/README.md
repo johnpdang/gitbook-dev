@@ -1,10 +1,11 @@
 # Education
 
-|                                                                                     |        |
-| ----------------------------------------------------------------------------------- | ------ |
-| [Build What Matters](https://betterprogramming.pub/build-what-matters-cfb2d74033ab) | 5/3/23 |
-|                                                                                     |        |
-|                                                                                     |        |
+|                                                                                                                                         |         |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Why Japanese Websites Look So Different](https://medium.com/@mirijam.missbichler/why-japanese-websites-look-so-different-2c7273e8be1e) | 5/20/23 |
+| [Build What Matters](https://betterprogramming.pub/build-what-matters-cfb2d74033ab)                                                     | 5/3/23  |
+|                                                                                                                                         |         |
+|                                                                                                                                         |         |
 
 ### 2021
 
