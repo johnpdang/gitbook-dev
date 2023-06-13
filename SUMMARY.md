@@ -39,6 +39,7 @@
 * [Fileshare](fileshare.md)
 * [Fonts](fonts.md)
 * [Forms](forms.md)
+* [Freelance](freelance.md)
 * [Git](git.md)
 * [Images](images.md)
 * [Links](links.md)
