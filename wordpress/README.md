@@ -1,10 +1,10 @@
 # WordPress
 
-|                                                                                                                                                                                                |         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [WordPress 6.2.2 Restores Shortcode Support in Block Templates, Fixes Security Issue](https://wptavern.com/wordpress-6-2-2-restores-shortcode-support-in-block-templates-fixes-security-issue) | 5/21/23 |
-|                                                                                                                                                                                                |         |
-|                                                                                                                                                                                                |         |
+|                                                                                                                                                                                                                                                                                                                                    |         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [How To Undo Changes In WordPress](https://wpengine.com/resources/undo-wordpress-changes/?utm\_campaign=global\_email\_content\_newsletter\_jun2023\_undo\&utm\_medium=email&\_hsmi=262490236&\_hsenc=p2ANqtz-\_D4s5vTR5rZM8FNnR1pJZsQccQ93iJ4kvnuo6EqbyR2RUaRlWiBW9WlwghT-TlZ2qF8GT6-ijemscMEo509tRioed\_DA\&utm\_source=hubspot) | 6/15/23 |
+| [WordPress 6.2.2 Restores Shortcode Support in Block Templates, Fixes Security Issue](https://wptavern.com/wordpress-6-2-2-restores-shortcode-support-in-block-templates-fixes-security-issue)                                                                                                                                     | 5/21/23 |
+|                                                                                                                                                                                                                                                                                                                                    |         |
 
 ### 2021
 
