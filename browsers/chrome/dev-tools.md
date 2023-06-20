@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                        |         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Some Cross-Browser DevTools Features You Might Not Know](https://css-tricks.com/some-cross-browser-devtools-features-you-might-not-know/)                             | 6/20/23 |
 | [What's New in DevTools (Chrome 113)](https://developer.chrome.com/blog/new-in-devtools-113/)                                                                          | 4/28/23 |
 | [Copy and extract all the CSS](https://twitter.com/umaar/status/1263418649286754304)                                                                                   | 11/19   |
 | [What’s New With DevTools: Cross-Browser Edition](https://www.smashingmagazine.com/2021/09/devtools-cross-browser-edition/)                                            | 9/13    |
