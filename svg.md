@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                               |           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Free SVG icons for your next project](https://gomakethings.com/free-svg-icons-for-your-next-project/)                                                                        | 7/6/23    |
 | [Svg Backgrounds](https://www.svgbackgrounds.com)                                                                                                                             | 1/7       |
 | [Clip-path converter](https://yoksel.github.io/relative-clip-path/)                                                                                                           | 9/13      |
 | [Swipey image grids](https://www.cassie.codes/posts/swipey-image-grids/)                                                                                                      | 4/5       |
