@@ -1,42 +1,42 @@
 # Accessibility
 
-|  |  |
-| :--- | :--- |
-| [web.dev/accessible](https://web.dev/accessible/) | 10/6 |
-| [Images and screen reader users](https://gomakethings.com/images-and-screen-reader-users/) | 6/25 |
-| [The full stack developer myth](https://gomakethings.com/the-full-stack-developer-myth/) | 6/22 |
-| [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) | 6/7 |
-| [There's no such thing as a website or web app that doesn't need to be accessible](https://gomakethings.com/theres-no-such-thing-as-a-website-or-web-app-that-doesnt-need-to-be-accessible/) | 3/15 |
-| [The difference between aria-label, aria-labelledby, and aria-describedby](https://benmyers.dev/blog/aria-labels-and-descriptions/) | 12/22 |
-| [5 most annoying website features I face as a blind person every single day](https://bighack.org/5-most-annoying-website-features-i-face-as-a-blind-screen-reader-user-accessibility/) | 12/4 |
-| [What Is ARIA Even For?](https://briefs.video/#pilot) | 11/16 |
-| [:focus-visible Is Here](https://css-tricks.com/focusing-on-focus-styles/) | 10/30 |
-| [Writing even more CSS with Accessibility in Mind, Part 1: Progressive Enhancement](https://www.matuzo.at/blog/writing-even-more-css-with-accessibility-in-mind-progressive-enhancement/?utm_source=CSS-Weekly&utm_campaign=Issue-427&utm_medium=email) | 9/17 |
-| [I was wrong about how to create accessible subtitles](https://gomakethings.com/i-was-wrong-about-how-to-create-accessible-subtitles/?mc_cid=86c1841e90&mc_eid=[UNIQID]) | 8/26 |
-| [Button state and accessibility](https://gomakethings.com/button-state-and-accessibility/?mc_cid=71656d75a6&mc_eid=[UNIQID]) | 6/24 |
-| [Optimizing keyboard navigation using tabindex and ARIA](https://www.sarasoueidan.com/blog/keyboard-friendlier-article-listings/?utm_source=CSS-Weekly&utm_campaign=Issue-414&utm_medium=email) | 6/10 |
-| [If it's interactive, it needs focus styles](https://gomakethings.com/if-its-interactive-it-needs-focus-styles/?mc_cid=e46f4c8f02&mc_eid=[UNIQID]) | 4/22 |
+|                                                                                                                                                                                                                                                              |         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| [WCAG 2.2, quick and simplified](https://medium.com/design-ibm/wcag-2-2-quick-and-simplified-73c3ff66b065)                                                                                                                                                   | 7/13/23 |
+| [web.dev/accessible](https://web.dev/accessible/)                                                                                                                                                                                                            | 10/6    |
+| [Images and screen reader users](https://gomakethings.com/images-and-screen-reader-users/)                                                                                                                                                                   | 6/25    |
+| [The full stack developer myth](https://gomakethings.com/the-full-stack-developer-myth/)                                                                                                                                                                     | 6/22    |
+| [A Complete Guide To Accessible Front-End Components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/)                                                                                                              | 6/7     |
+| [There's no such thing as a website or web app that doesn't need to be accessible](https://gomakethings.com/theres-no-such-thing-as-a-website-or-web-app-that-doesnt-need-to-be-accessible/)                                                                 | 3/15    |
+| [The difference between aria-label, aria-labelledby, and aria-describedby](https://benmyers.dev/blog/aria-labels-and-descriptions/)                                                                                                                          | 12/22   |
+| [5 most annoying website features I face as a blind person every single day](https://bighack.org/5-most-annoying-website-features-i-face-as-a-blind-screen-reader-user-accessibility/)                                                                       | 12/4    |
+| [What Is ARIA Even For?](https://briefs.video/#pilot)                                                                                                                                                                                                        | 11/16   |
+| [:focus-visible Is Here](https://css-tricks.com/focusing-on-focus-styles/)                                                                                                                                                                                   | 10/30   |
+| [Writing even more CSS with Accessibility in Mind, Part 1: Progressive Enhancement](https://www.matuzo.at/blog/writing-even-more-css-with-accessibility-in-mind-progressive-enhancement/?utm\_source=CSS-Weekly\&utm\_campaign=Issue-427\&utm\_medium=email) | 9/17    |
+| [I was wrong about how to create accessible subtitles](https://gomakethings.com/i-was-wrong-about-how-to-create-accessible-subtitles/?mc\_cid=86c1841e90\&mc\_eid=\[UNIQID])                                                                                 | 8/26    |
+| [Button state and accessibility](https://gomakethings.com/button-state-and-accessibility/?mc\_cid=71656d75a6\&mc\_eid=\[UNIQID])                                                                                                                             | 6/24    |
+| [Optimizing keyboard navigation using tabindex and ARIA](https://www.sarasoueidan.com/blog/keyboard-friendlier-article-listings/?utm\_source=CSS-Weekly\&utm\_campaign=Issue-414\&utm\_medium=email)                                                         | 6/10    |
+| [If it's interactive, it needs focus styles](https://gomakethings.com/if-its-interactive-it-needs-focus-styles/?mc\_cid=e46f4c8f02\&mc\_eid=\[UNIQID])                                                                                                       | 4/22    |
 
-|  |  |
-| :--- | :--- |
-| [When should you use ARIA?](https://gomakethings.com/when-should-you-use-aria/?mc_cid=fba48fd3af&mc_eid=[UNIQID]) | 7/17 |
-| [https://a11yproject.com/checklist/](https://a11yproject.com/checklist/) | 4/4 |
-| [WCAG 2.0 and Link Colors](https://webaim.org/blog/wcag-2-0-and-link-colors/) |  |
-| [Nutrition Cards for Accessible Components](https://davatron5000.github.io/a11y-nutrition-cards) | 12/10/2019 |
-| [Checklist to avoid the most common accessibility errors](https://www.brucelawson.co.uk/2019/checklist-to-avoid-the-most-common-accessibility-errors/) | 12/4/2019 |
-| [Accessibility insights](https://accessibilityinsights.io/) |  |
-| [Accessibility Non-Compliance](https://www.telerik.com/blogs/so-youre-being-sued-for-accessibility-non-compliance) |  |
-| [ADA Compliance](https://www.interactiveaccessibility.com/services/ada-compliance) |  |
-| [Unexpected accessibility tips](https://www.cjcid.com/articles/unexpected-a11y-tips/) |  |
-| [WCAG 2.1](https://www.w3.org/TR/WCAG21/) |  |
-| [Wuhcag](https://www.wuhcag.com/wcag-checklist/) |  |
+|                                                                                                                                                        |            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| [When should you use ARIA?](https://gomakethings.com/when-should-you-use-aria/?mc\_cid=fba48fd3af\&mc\_eid=\[UNIQID])                                  | 7/17       |
+| [https://a11yproject.com/checklist/](https://a11yproject.com/checklist/)                                                                               | 4/4        |
+| [WCAG 2.0 and Link Colors](https://webaim.org/blog/wcag-2-0-and-link-colors/)                                                                          |            |
+| [Nutrition Cards for Accessible Components](https://davatron5000.github.io/a11y-nutrition-cards)                                                       | 12/10/2019 |
+| [Checklist to avoid the most common accessibility errors](https://www.brucelawson.co.uk/2019/checklist-to-avoid-the-most-common-accessibility-errors/) | 12/4/2019  |
+| [Accessibility insights](https://accessibilityinsights.io/)                                                                                            |            |
+| [Accessibility Non-Compliance](https://www.telerik.com/blogs/so-youre-being-sued-for-accessibility-non-compliance)                                     |            |
+| [ADA Compliance](https://www.interactiveaccessibility.com/services/ada-compliance)                                                                     |            |
+| [Unexpected accessibility tips](https://www.cjcid.com/articles/unexpected-a11y-tips/)                                                                  |            |
+| [WCAG 2.1](https://www.w3.org/TR/WCAG21/)                                                                                                              |            |
+| [Wuhcag](https://www.wuhcag.com/wcag-checklist/)                                                                                                       |            |
 
 ### Chrome Extensions
 
-|  |  |
-| :--- | :--- |
-| Axe | [https://www.deque.com/axe/](https://www.deque.com/axe/) |
+|                     |                                                                                                                                                                                                                          |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Axe                 | [https://www.deque.com/axe/](https://www.deque.com/axe/)                                                                                                                                                                 |
 | WCAG color contrast | [https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=en](https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=en) |
-| Headings Map | https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi |
-|  |  |
-
+| Headings Map        | https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi                                                                                                                                   |
+|                     |                                                                                                                                                                                                                          |
