@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [VS Code Extensions Every Developer Should Know](https://hackernoon.com/vs-code-extensions-every-developer-should-know?utm\_campaign=Frontend%2BWeekly\&utm\_medium=email\&utm\_source=Frontend\_Weekly\_368)                         | 7/26/23   |
 | [20 Must-Have VSCode Extensions for Web Development In 2023](https://javascript.plainenglish.io/20-must-have-vscode-extensions-for-web-development-in-2023-7bf1995c5ce5)                                                              | 6/24/23   |
 | [Easier browser debugging with Developer Tools integration in Visual Studio Code](https://blogs.windows.com/msedgedev/2021/07/16/easier-debugging-developer-tools-in-visual-studio-code/)                                             | 7/26      |
 | [10 Top Visual Studio Code Extensions in 2020](https://blog.bitsrc.io/top-10-visual-studio-extensions-in-2020-857ea6d692dd)                                                                                                           | 9/6       |
