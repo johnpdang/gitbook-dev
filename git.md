@@ -1,7 +1,8 @@
 # Git
 
-| [Make GitHub Copilot Way Better With These Two VS Code Settings](https://medium.com/coding-at-dawn/make-github-copilot-way-better-with-these-two-vs-code-settings-842775ba82f7)                                                | 5/5/23  |
+| [Mastering Git Shortcuts: A Guide to Git Aliases](https://dev.to/pradumnasaraf/mastering-git-shortcuts-a-guide-to-git-aliases-324j)                                                                                            | 7/30/23 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| [Make GitHub Copilot Way Better With These Two VS Code Settings](https://medium.com/coding-at-dawn/make-github-copilot-way-better-with-these-two-vs-code-settings-842775ba82f7)                                                | 5/5/23  |
 | [Use Git like a senior engineer](https://medium.com/gitconnected/use-git-like-a-senior-engineer-ef6d741c898e)                                                                                                                  | 4/13/23 |
 | [18 amazing 🤩 GitHub repositories that will help you 🪄 make a Beautiful Project](https://dev.to/kerthin/18-amazing-github-repositories-that-will-help-you-make-a-beautiful-project-3pgo)                                     | 9/4     |
 | [25 Git commands I use daily and you should know](https://dev.to/devdefinitive/25-git-commands-i-use-daily-and-you-should-know-1kj5)                                                                                           | 6/17    |
