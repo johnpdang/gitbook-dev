@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                             |         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Vertical vs. Horizontal Cards: Which Are Better?](https://uxmovement.medium.com/vertical-vs-horizontal-cards-which-are-better-4ee8ba1f868d)                                | 8/5/23  |
 | [EP69: Explaining JSON Web Token (JWT) To a 10 Year Old Kid](https://blog.bytebytego.com/p/ep69-explaining-json-web-token-jwt?r=1nwcx\&utm\_campaign=post\&utm\_medium=web) | 7/25/23 |
 | [Using emoji on the web](https://fullystacked.net/posts/using-emoji-on-the-web/)                                                                                            | 7/23/23 |
 | [What Is Web 3.0?](https://briefs.video/videos/what-is-web-3.0/?utm\_source=heydon\&utm\_medium=email\&utm\_campaign=new-videos)                                            | 7/11/23 |
