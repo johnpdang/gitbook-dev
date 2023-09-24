@@ -53,6 +53,7 @@
 * [Performance](performance.md)
 * [Portfolio](portfolio.md)
 * [Productivity](productivity.md)
+* [Resources](resources.md)
 * [Server](server/README.md)
   * [Serverless services](server/serverless-services.md)
   * [Docker](server/docker.md)
