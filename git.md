@@ -1,7 +1,8 @@
 # Git
 
-| [Why Facebook doesn’t use Git](https://graphite.dev/blog/why-facebook-doesnt-use-git?utm\_source=tldrwebdev)                                                                                                                   | 3/8/24  |
+| [So You Think You Know Git - FOSDEM 2024](https://www.youtube.com/watch?v=aolI\_Rz0ZqY)                                                                                                                                        | 3/31/24 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| [Why Facebook doesn’t use Git](https://graphite.dev/blog/why-facebook-doesnt-use-git?utm\_source=tldrwebdev)                                                                                                                   | 3/8/24  |
 | [Mastering Git Shortcuts: A Guide to Git Aliases](https://dev.to/pradumnasaraf/mastering-git-shortcuts-a-guide-to-git-aliases-324j)                                                                                            | 7/30/23 |
 | [Make GitHub Copilot Way Better With These Two VS Code Settings](https://medium.com/coding-at-dawn/make-github-copilot-way-better-with-these-two-vs-code-settings-842775ba82f7)                                                | 5/5/23  |
 | [Use Git like a senior engineer](https://medium.com/gitconnected/use-git-like-a-senior-engineer-ef6d741c898e)                                                                                                                  | 4/13/23 |
