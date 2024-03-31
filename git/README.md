@@ -25,39 +25,3 @@
 | [try.github.io](https://hashnode.com/util/redirect?url=https://try.github.io/)                                                                                                                                                 |         |
 | [git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)                                                                                                                                                                       |         |
 | [git-tower.com/learn](https://hashnode.com/util/redirect?url=https://www.git-tower.com/learn/)                                                                                                                                 |         |
-
-### Amend
-
-```bash
-$git commit --amend -m 'new commit message'
-```
-
-### Branches
-
-```bash
-# if you catch yourself having done a bunch of dev in a branch you didn’t mean to
-# move all your uncommited changes to a new branch without disturbing the one you were in.
-
-$git checkout -b <new branch name>
-```
-
-### Remotes
-
-{% code title="init remove and add git sources" %}
-```bash
-// initialize a git repo
-$ git init
-
-$ git remote rm origin
-$ git remote add origin git@github.com:environment/project-name.git
-```
-{% endcode %}
-
-```bash
-git remote -v
-git remote add wpeprod git@git.wpengine.com:production/bioinncapital.git
-git remote add wpestage git@git.wpengine.com:staging/bioinncapital.git
-
-git remote add wp_dev git@git.wpengine.com:production/devkinective.git
-git remote add wp_stage git@git.wpengine.com:production/stagekinective.git
-```
