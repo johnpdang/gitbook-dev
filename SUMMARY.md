@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Pages](README.md)
+* [404](404.md)
 * [Accessibility](accessibility.md)
 * [Age gate](age-gate.md)
 * [Ai](ai.md)
