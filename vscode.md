@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [10 VS Code extensions for maximum frontend development productivity](https://dev.to/oyegoke/10-vs-code-extensions-for-maximum-frontend-development-productivity-383h)                                                                | 4/27/24   |
 | [9 VSCode Extensions You Can’t Ignore as a Developer](https://javascript.plainenglish.io/9-vscode-extensions-you-cant-ignore-as-a-developer-f5e39559e9a1)                                                                             | 9/30/23   |
 | [15 Hidden Tips And Tricks of VS Code That You Should Know](https://stateful.com/blog/15-tips-and-tricks-of-vs-code?utm\_campaign=Frontend%2BWeekly\&utm\_medium=email\&utm\_source=Frontend\_Weekly\_370)                            | 8/9/23    |
 | [VS Code Extensions Every Developer Should Know](https://hackernoon.com/vs-code-extensions-every-developer-should-know?utm\_campaign=Frontend%2BWeekly\&utm\_medium=email\&utm\_source=Frontend\_Weekly\_368)                         | 7/26/23   |
