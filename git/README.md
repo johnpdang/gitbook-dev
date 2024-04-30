@@ -1,7 +1,8 @@
 # Git
 
-| [Git Merge vs. Rebase: Key Differences](https://dev.to/codeparrot/git-merge-vs-rebase-key-differences-1pb4?context=digest)                                                                                                     | 4/19/24 |
+| [Mastering Git: Cheatsheets, Commands, and Interview Prep](https://dev.to/nirmalyax/mastering-github-cheatsheets-commands-and-interview-prep-49c9)                                                                             | 4/30/24 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| [Git Merge vs. Rebase: Key Differences](https://dev.to/codeparrot/git-merge-vs-rebase-key-differences-1pb4?context=digest)                                                                                                     | 4/19/24 |
 | [The guide to Git I never had.](https://medium.com/@jake.page91/the-guide-to-git-i-never-had-a89048d4703a)                                                                                                                     | 4/15/24 |
 | [So You Think You Know Git - FOSDEM 2024](https://www.youtube.com/watch?v=aolI\_Rz0ZqY)                                                                                                                                        | 3/31/24 |
 | [Why Facebook doesn’t use Git](https://graphite.dev/blog/why-facebook-doesnt-use-git?utm\_source=tldrwebdev)                                                                                                                   | 3/8/24  |
