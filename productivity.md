@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                                        |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| [A Useful Productivity Measure?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure?utm\_source=tldrwebdev)                                                                                                                         | 5/7/24  |
 | [Tools that keep me productive](https://dev.to/nickytonline/tools-that-keep-me-productive-1no5?context=digest)                                                                                                                                         | 5/6/24  |
 | [What makes developers productive?](https://jeremymikkola.com/posts/developer\_productivity.html)                                                                                                                                                      | 7/17/23 |
 | [https://community.folivora.ai/](https://community.folivora.ai/)                                                                                                                                                                                       | 1/15    |
