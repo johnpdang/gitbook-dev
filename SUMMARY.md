@@ -42,7 +42,6 @@
 * [Fileshare](fileshare.md)
 * [Fonts](fonts.md)
 * [Forms](forms.md)
-* [Frameworks](frameworks.md)
 * [Freelance](freelance.md)
 * [Git](git/README.md)
   * [Alias](git/alias.md)
