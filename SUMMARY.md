@@ -25,7 +25,7 @@
 * [Cookies](cookies.md)
 * [CI/CD](ci-cd.md)
 * [Data](data.md)
-* [Hosti](hosti.md)
+* [Hosting](hosting.md)
 * [Docker](docker.md)
 * [Domains](domains.md)
 * [eCommerce](ecommerce.md)
