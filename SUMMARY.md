@@ -61,6 +61,7 @@
 * [Portfolio](portfolio.md)
 * [Productivity](productivity.md)
 * [Resources](resources.md)
+* [Responsive](responsive.md)
 * [Server](server/README.md)
   * [Serverless services](server/serverless-services.md)
   * [Docker](server/docker.md)
