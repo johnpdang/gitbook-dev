@@ -52,6 +52,7 @@
   * [Amend](git/amend.md)
   * [Branches](git/branches.md)
   * [Remotes](git/remotes.md)
+* [Gradients](gradients.md)
 * [Grid](grid.md)
 * [Images](images.md)
 * [Loader](loader.md)
