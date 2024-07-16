@@ -7,6 +7,7 @@
 * [Ai](ai.md)
 * [Animation](animation.md)
 * [API](api.md)
+* [Border-radius](border-radius.md)
 * [Browsers](browsers/README.md)
   * [Chrome](browsers/chrome/README.md)
     * [Console](browsers/chrome/console.md)
