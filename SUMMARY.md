@@ -71,6 +71,7 @@
 * [Portfolio](portfolio.md)
 * [Position](position.md)
 * [Productivity](productivity.md)
+* [Property](property.md)
 * [Resources](resources.md)
 * [SCSS](scss.md)
 * [Server](server/README.md)
