@@ -2,6 +2,8 @@
 
 |                                                                                                                                                                                                                                       |           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [SVG generator for fluid blurred gradient backgrounds](https://api.daily.dev/r/WlG7M0R2X)                                                                                                                                             | 7/17/24   |
+| [Ditch the Pixels: The Small and Vectorized Web](https://dev.to/yordiverkroost/ditch-the-pixels-the-small-and-vectorized-web-1f4e)                                                                                                    | 6/11/24   |
 | [SVG Path Visualizer](https://svg-path-visualizer.netlify.app/#M140%2020C73%2020%2020%2074%2020%20140c0%20135%20136%20170%20228%20303%2088-132%20229-173%20229-303%200-66-54-120-120-120-48%200-90%2028-109%2069-19-41-60-69-108-69z) | 9/28/23   |
 | [Free SVG icons for your next project](https://gomakethings.com/free-svg-icons-for-your-next-project/)                                                                                                                                | 7/6/23    |
 | [Svg Backgrounds](https://www.svgbackgrounds.com)                                                                                                                                                                                     | 1/7       |
