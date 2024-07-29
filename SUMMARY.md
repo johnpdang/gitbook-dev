@@ -73,6 +73,7 @@
 * [Productivity](productivity.md)
 * [Property](property.md)
 * [Resources](resources.md)
+* [Responsive](responsive.md)
 * [SCSS](scss.md)
 * [Server](server/README.md)
   * [Serverless services](server/serverless-services.md)
