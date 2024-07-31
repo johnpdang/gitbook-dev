@@ -93,6 +93,7 @@
   * [SSH](terminal/ssh.md)
 * [Tools](generators.md)
 * [Transition](transition.md)
+* [Variable](variable.md)
 * [Viewport](viewport.md)
 * [VIM](vim.md)
 * [VScode](vscode.md)
