@@ -64,6 +64,7 @@
 * [Misc](misc/README.md)
   * [Gifs](misc/gifs.md)
   * [Memes](misc/memes.md)
+* [Mixins](mixins.md)
 * [Modals](modals.md)
 * [Navigation](navigation.md)
 * [Performance](performance.md)
