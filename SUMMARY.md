@@ -93,6 +93,7 @@
   * [Aliases](terminal/aliases.md)
   * [SSH](terminal/ssh.md)
 * [Tools](generators.md)
+* [Transform](transform.md)
 * [Transition](transition.md)
 * [Variable](variable.md)
 * [Viewport](viewport.md)
