@@ -42,6 +42,7 @@
     * [Sources](education/tutorials/list.md)
 * [Header](header.md)
 * [Height](height.md)
+* [Hover](hover.md)
 * [Favicon](favicon/README.md)
   * [Slider](favicon/slider/README.md)
     * [Slick](favicon/slider/slick.md)
