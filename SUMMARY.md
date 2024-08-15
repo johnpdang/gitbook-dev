@@ -93,6 +93,7 @@
 * [Terminal](terminal/README.md)
   * [Aliases](terminal/aliases.md)
   * [SSH](terminal/ssh.md)
+* [Text](text.md)
 * [Tools](generators.md)
 * [Transform](transform.md)
 * [Transition](transition.md)
