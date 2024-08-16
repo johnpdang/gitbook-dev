@@ -5,6 +5,7 @@
 * [Accessibility](accessibility.md)
 * [Age gate](age-gate.md)
 * [Ai](ai.md)
+* [Anchor](anchor.md)
 * [Animation](animation.md)
 * [API](api.md)
 * [Background](background.md)
