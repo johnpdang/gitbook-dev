@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                          |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| [Animate a sibling on scroll with only 5 lines of CSS](https://app.daily.dev/posts/animate-a-sibling-on-scroll-with-only-5-lines-of-css-h7cxq0azf)                       | 8/22/24 |
 | [Get web animations inspiration for your next web design project](https://app.daily.dev/posts/get-web-animations-inspiration-for-your-next-web-design-project-08iwhdk5o) | 8/19/24 |
 | [A Text-Reveal Effect Using conic-gradient() in CSS](https://frontendmasters.com/blog/text-reveal-with-conic-gradient/?ref=usepanda.com)                                 | 6/30/24 |
 | [NEW MAGIC FOR ANIMATIONS IN CSS](https://chasem.co/2024/05/css-animations/)                                                                                             | 5/30/24 |
