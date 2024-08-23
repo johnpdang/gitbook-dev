@@ -52,6 +52,7 @@
 * [Forms](forms.md)
 * [Frameworks](frameworks.md)
 * [Freelance](freelance.md)
+* [Function](function.md)
 * [Git](git/README.md)
   * [Alias](git/alias.md)
   * [Amend](git/amend.md)
