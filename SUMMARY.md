@@ -53,6 +53,7 @@
 * [Frameworks](frameworks.md)
 * [Freelance](freelance.md)
 * [Function](function.md)
+* [Generator](generator.md)
 * [Git](git/README.md)
   * [Alias](git/alias.md)
   * [Amend](git/amend.md)
