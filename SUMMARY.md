@@ -22,6 +22,7 @@
   * [Cover letters](career/cover-letters.md)
   * [Interviewing](career/interviewing.md)
 * [Cheatsheets](cheatsheets.md)
+* [Class](class.md)
 * [Command line](command-line.md)
 * [Component library](component-library.md)
 * [Conditional](conditional.md)
