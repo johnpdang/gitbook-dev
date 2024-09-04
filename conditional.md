@@ -2,6 +2,7 @@
 
 |                                                                                                                                               |         |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Quantity queries using has() selector](https://css-tip.com/quantity-queries/?ref=dailydev)                                                   | 9/4/24  |
 | [:has() is “The God Selector” – Frontend Masters Boost](https://app.daily.dev/posts/has-is-the-god-selector-frontend-masters-boost-vdny4usrd) | 8/13/24 |
 | [Writing Logic in CSS](https://dev.to/iamschulz/writing-logic-in-css-3ig0?ref=dailydev)                                                       | 8/7/24  |
 | [Using the upcoming CSS when/else rules](https://app.daily.dev/posts/using-the-upcoming-css-when-else-rules-meqd3cehz)                        | 8/5/24  |
