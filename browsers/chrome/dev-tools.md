@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                   |         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [What's new in DevTools, Chrome 125](https://developer.chrome.com/blog/new-in-devtools-125)                                                                                                                                       | 5/23/24 |
 | [Scroll-Driven Animations Debugger (DevTools Extension)](https://www.bram.us/2023/09/12/scroll-driven-animations-debugger/?utm\_source=weekly.cssanimation.rocks\&utm\_medium=newsletter\&utm\_campaign=css-animation-weekly-356) | 9/18/23 |
 | [Some Cross-Browser DevTools Features You Might Not Know](https://css-tricks.com/some-cross-browser-devtools-features-you-might-not-know/)                                                                                        | 6/20/23 |
 | [What's New in DevTools (Chrome 113)](https://developer.chrome.com/blog/new-in-devtools-113/)                                                                                                                                     | 4/28/23 |
