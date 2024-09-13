@@ -2,6 +2,7 @@
 
 |                                                                                                                                               |         |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [The Undeniable Utility Of CSS `:has<`](https://app.daily.dev/posts/the-undeniable-utility-of-css-code-has--wanykyokt)                        | 9/13/24 |
 | [Quantity queries using has() selector](https://css-tip.com/quantity-queries/?ref=dailydev)                                                   | 9/4/24  |
 | [:has() is “The God Selector” – Frontend Masters Boost](https://app.daily.dev/posts/has-is-the-god-selector-frontend-masters-boost-vdny4usrd) | 8/13/24 |
 | [Writing Logic in CSS](https://dev.to/iamschulz/writing-logic-in-css-3ig0?ref=dailydev)                                                       | 8/7/24  |
