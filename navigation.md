@@ -2,7 +2,7 @@
 
 |                                                                                                                                                                                                  |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
-| [Menu-Design Checklist: 17 UX Guidelines](https://www.nngroup.com/articles/menu-design/)                                                                                                         | 6/17/24 |
+| [Animated Navigation Menu](https://dev.to/alvaromontoro/animated-navigation-menu-57o7?context=digest)                                                                                            | 5/21/24 |
 | [Designing Sticky Menus: UX Guidelines](https://www.smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/?ref=web-design-weekly.com)                                                          | 5/17/23 |
 | [https://jonsuh.com/hamburgers/](https://jonsuh.com/hamburgers/)                                                                                                                                 |         |
 | [https://tympanus.net/Tutorials/CircularNavigation/index.html](https://tympanus.net/Tutorials/CircularNavigation/index.html)                                                                     |         |
