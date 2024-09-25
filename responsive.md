@@ -1,7 +1,7 @@
 # Responsive
 
-|                                                                                                                                                        |         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
-| [You Should Know These 7 CSS Responsive Sizing Features](https://app.daily.dev/posts/you-should-know-these-7-css-responsive-sizing-features-ukbm58jfv) | 7/29/24 |
-|                                                                                                                                                        |         |
-|                                                                                                                                                        |         |
+|                                                                                    |        |
+| ---------------------------------------------------------------------------------- | ------ |
+| [Responsive design](https://medium.com/owl-studios/responsive-design-af7a1f14b991) | 6/1/24 |
+|                                                                                    |        |
+|                                                                                    |        |
