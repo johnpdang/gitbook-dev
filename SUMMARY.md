@@ -52,6 +52,7 @@
   * [Remotes](git/remotes.md)
 * [Images](images.md)
 * [Links](links.md)
+* [Logos](logos.md)
 * [Media Queries](media-queries.md)
 * [Misc](misc/README.md)
   * [Gifs](misc/gifs.md)
