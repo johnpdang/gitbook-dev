@@ -50,6 +50,7 @@
   * [Amend](git/amend.md)
   * [Branches](git/branches.md)
   * [Remotes](git/remotes.md)
+* [Github](github.md)
 * [Images](images.md)
 * [Links](links.md)
 * [Logos](logos.md)
