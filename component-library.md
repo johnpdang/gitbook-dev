@@ -1,9 +1,10 @@
 # Component library
 
-|                                                                                                                                                                                  |          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [10+ Trending Animated UI Component Libraries 🔥](https://dev.to/themeselection/10-trending-animated-ui-component-libraries-4joe?ref=dailydev)                                   | 11/12/24 |
-| [Do you think your component library is your design system? Think again](https://uxdesign.cc/do-you-think-your-component-library-is-your-design-system-think-again-7e2c902b5275) | 11/28    |
+|                                                                                                                                                                                                                               |          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Website hero section inspirations ⚡️ Curated collection of beautiful website hero sections.](https://app.daily.dev/posts/website-hero-section-inspirations-curated-collection-of-beautiful-website-hero-sections--qjugwwd1s) | 12/3/24  |
+| [10+ Trending Animated UI Component Libraries 🔥](https://dev.to/themeselection/10-trending-animated-ui-component-libraries-4joe?ref=dailydev)                                                                                | 11/12/24 |
+| [Do you think your component library is your design system? Think again](https://uxdesign.cc/do-you-think-your-component-library-is-your-design-system-think-again-7e2c902b5275)                                              | 11/28    |
 
 |                                   |                                                                          |
 | --------------------------------- | ------------------------------------------------------------------------ |
