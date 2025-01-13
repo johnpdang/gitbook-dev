@@ -84,6 +84,7 @@
   * [Aliases](terminal/aliases.md)
   * [SSH](terminal/ssh.md)
 * [Tools](generators.md)
+* [Variable](variable.md)
 * [Viewport](viewport.md)
 * [VIM](vim.md)
 * [VScode](vscode.md)
