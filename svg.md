@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Mastering SVG Arcs — Smashing Magazine](https://www.smashingmagazine.com/2024/12/mastering-svg-arcs/?ref=dailydev)                                                                                                                   | 1/22/25   |
 | [Interactive SVG Reference](https://www.fffuel.co/sssvg/?ref=dailydev)                                                                                                                                                                | 7/25/24   |
 | [SVG generator for fluid blurred gradient backgrounds](https://api.daily.dev/r/WlG7M0R2X)                                                                                                                                             | 7/17/24   |
 | [Ditch the Pixels: The Small and Vectorized Web](https://dev.to/yordiverkroost/ditch-the-pixels-the-small-and-vectorized-web-1f4e)                                                                                                    | 6/11/24   |
