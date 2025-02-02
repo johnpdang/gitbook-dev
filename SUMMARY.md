@@ -78,6 +78,7 @@
   * [README.md](starter-files/readme.md.md)
   * [webpack.config.js](starter-files/webpack.config.js.md)
 * [State](state.md)
+* [Supports](supports.md)
 * [SVG](svg.md)
 * [Tech](tech.md)
 * [Terminal](terminal/README.md)
