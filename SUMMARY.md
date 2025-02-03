@@ -61,6 +61,7 @@
   * [Memes](misc/memes.md)
 * [Modals](modals.md)
 * [Navigation](navigation.md)
+* [Nesting](nesting.md)
 * [Performance](performance.md)
 * [Portfolio](portfolio.md)
 * [Productivity](productivity.md)
