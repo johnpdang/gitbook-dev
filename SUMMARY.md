@@ -26,6 +26,7 @@
 * [CI/CD](ci-cd.md)
 * [Cursor](cursor.md)
 * [Data](data.md)
+* [Design](design.md)
 * [Hosting](hosting.md)
 * [Docker](docker.md)
 * [Domains](domains.md)
