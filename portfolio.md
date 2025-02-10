@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [Simple yet modern animated portfolio](https://app.daily.dev/posts/simple-yet-modern-animated-portfolio-kgkctjsdz)                                                             | 2/10/25  |
 | [🎉 Excited to Share My New Portfolio Website!](https://app.daily.dev/posts/portfolio-website-xeabdescs)                                                                       | 11/26/24 |
 | [✧˚ Outstanding Portfolio for the inspiration - 11](https://app.daily.dev/posts/outstanding-portfolio-for-the-inspiration---11-adusfqgnv)                                      | 10/15/24 |
 | [How Web Developers Can Build an Effective Portfolio](https://javascript.plainenglish.io/how-web-developers-can-build-an-effective-portfolio-aed719927589)                     | 4/17     |
