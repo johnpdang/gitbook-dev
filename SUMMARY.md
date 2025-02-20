@@ -18,6 +18,7 @@
 * [Career](career/README.md)
   * [Cover letters](career/cover-letters.md)
   * [Interviewing](career/interviewing.md)
+* [Carousel](carousel.md)
 * [Cheatsheets](cheatsheets.md)
 * [Command line](command-line.md)
 * [Component library](component-library.md)
