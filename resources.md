@@ -4,6 +4,7 @@
 
 |                                                                                                                                                                       |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [11 Free Must-Know Websites for Every Developer](https://dev.to/kafeel_ahmad/11-free-must-know-websites-for-every-developer-22g6?ref=dailydev)                        | 2/23/25  |
 | [🚀 Frontend Designers & Developers, Meet Your New Best Friend! 🎨💻](https://app.daily.dev/posts/frontend-designers-developers-meet-your-new-best-friend--xow8hebq4) | 1/9/25   |
 | [Beautify Screenshots](https://app.daily.dev/posts/6ccrvpyqq)                                                                                                         | 12/18/24 |
 | [Cheatsheets for Developers](https://medium.com/@vrkunduri/cheatsheets-for-developers-1bf378aafcb0)                                                                   | 10/28/24 |
