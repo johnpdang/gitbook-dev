@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                            |           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [TinyWebP – The Fastest & Most Private Image Compression Tool?](https://app.daily.dev/posts/tinywebp-the-fastest-most-private-image-compression-tool--lglhkmubx)           | 2/24/25   |
 | [Radical Image Optimization Tool](https://riot-optimizer.com/?ref=dailydev)                                                                                                | 9/30/24   |
 | [Enhance Website Performance: Free Image Optimizer for Your Site](https://techtales.blog/optimize-images-enhance-website-performance/)                                     | 3/18/24   |
 | [Doodle Ipsum](https://doodleipsum.com/)                                                                                                                                   | 9/16      |
