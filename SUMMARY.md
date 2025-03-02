@@ -18,6 +18,8 @@
 * [Career](career/README.md)
   * [Cover letters](career/cover-letters.md)
   * [Interviewing](career/interviewing.md)
+  * [Resume](career/resume/README.md)
+    * [2025](career/resume/2025.md)
 * [Carousel](carousel.md)
 * [Cheatsheets](cheatsheets.md)
 * [Command line](command-line.md)
