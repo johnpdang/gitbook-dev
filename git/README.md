@@ -1,7 +1,8 @@
 # Git
 
-| [10 new Git commands you should start using today](https://appwrite.io/blog/post/10-git-commands-you-should-start-using?ref=dailydev)                                                                                     | 12/16/24 |
+| [Git Cheat Sheet – 50 Git Commands You Should Know](https://app.daily.dev/posts/git-cheat-sheet-50-git-commands-you-should-know--ltw6krh5)                                                                                | 4/9/25   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [10 new Git commands you should start using today](https://appwrite.io/blog/post/10-git-commands-you-should-start-using?ref=dailydev)                                                                                     | 12/16/24 |
 | [Mastering Git: Cheatsheets, Commands, and Interview Prep](https://dev.to/nirmalyax/mastering-github-cheatsheets-commands-and-interview-prep-49c9)                                                                        | 4/30/24  |
 | [Git Merge vs. Rebase: Key Differences](https://dev.to/codeparrot/git-merge-vs-rebase-key-differences-1pb4?context=digest)                                                                                                | 4/19/24  |
 | [The guide to Git I never had.](https://medium.com/@jake.page91/the-guide-to-git-i-never-had-a89048d4703a)                                                                                                                | 4/15/24  |
