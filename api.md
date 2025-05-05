@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                          |         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Free Public APIs for Developers](https://app.daily.dev/posts/free-public-apis-for-developers-blxinbu80)                                                                                 | 5/5/25  |
 | [Learn API Fundamentals and Architecture – A Beginner-Friendly Guide](https://app.daily.dev/posts/learn-api-fundamentals-and-architecture-a-beginner-friendly-guide-yoxznkfhf)           | 3/29/25 |
 | [EP152: 30 Free APIs for Developers](https://app.daily.dev/posts/ep152-30-free-apis-for-developers-udmpwfauu)                                                                            | 3/19/25 |
 | [7 Unique APIs for your next project](https://dev.to/renaissanceengineer/7-unique-apis-for-your-next-project-4hf9?utm_source=digest_mailer\&utm_medium=email\&utm_campaign=digest_email) | 1/24    |
