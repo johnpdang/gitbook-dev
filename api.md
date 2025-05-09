@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                          |         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [16 API Terms You Should Know](https://blog.amigoscode.com/p/16-api-terms-you-should-know?ref=dailydev)                                                                                  | 5/9/25  |
 | [Free Public APIs for Developers](https://app.daily.dev/posts/free-public-apis-for-developers-blxinbu80)                                                                                 | 5/5/25  |
 | [Learn API Fundamentals and Architecture – A Beginner-Friendly Guide](https://app.daily.dev/posts/learn-api-fundamentals-and-architecture-a-beginner-friendly-guide-yoxznkfhf)           | 3/29/25 |
 | [EP152: 30 Free APIs for Developers](https://app.daily.dev/posts/ep152-30-free-apis-for-developers-udmpwfauu)                                                                            | 3/19/25 |
