@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [A beautiful library with SVG logos](https://app.daily.dev/posts/w92q8faly)                                                                                                                                                           | 6/9/25    |
 | [Mastering SVG Arcs — Smashing Magazine](https://www.smashingmagazine.com/2024/12/mastering-svg-arcs/?ref=dailydev)                                                                                                                   | 1/22/25   |
 | [Interactive SVG Reference](https://www.fffuel.co/sssvg/?ref=dailydev)                                                                                                                                                                | 7/25/24   |
 | [SVG generator for fluid blurred gradient backgrounds](https://api.daily.dev/r/WlG7M0R2X)                                                                                                                                             | 7/17/24   |
