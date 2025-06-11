@@ -64,6 +64,7 @@
 * [Misc](misc/README.md)
   * [Gifs](misc/gifs.md)
   * [Memes](misc/memes.md)
+* [Mobile](mobile.md)
 * [Modals](modals.md)
 * [Navigation](navigation.md)
 * [Nesting](nesting.md)
