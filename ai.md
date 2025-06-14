@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                          |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| [The Hidden Cost of AI Coding](https://app.daily.dev/posts/the-hidden-cost-of-ai-coding-c9up02yd3)                                                                       | 6/14/25 |
 | [Will AI replace Humans (e.g. Writing, Coding)?](https://www.ssp.sh/brain/will-ai-replace-humans/?ref=dailydev)                                                          | 5/28/25 |
 | [5 Brilliant Prompts I Wish Every Single ChatGPT User Knew](https://app.daily.dev/posts/5-brilliant-prompts-i-wish-every-single-chatgpt-user-knew-omwowi1oe)             | 3/4/25  |
 | [The Future of AI No One’s Predicting](https://medium.datadriveninvestor.com/the-future-of-ai-no-ones-predicting-fae4a52f720f)                                           | 7/6/24  |
