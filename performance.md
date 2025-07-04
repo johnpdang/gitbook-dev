@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                       |         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Frontend Performance Checklist](https://crystallize.com/blog/frontend-performance-checklist?ref=dailydev)                                                                                                            | 7/4/25  |
 | [14 web performance tips for 2025](https://app.daily.dev/posts/14-web-performance-tips-for-2025-3xchmwgai)                                                                                                            | 6/30/25 |
 | [5 easy tips to improve your personal website performance](https://dev.to/whitep4nth3r/5-easy-tips-to-improve-your-personal-website-performance-32ng?context=digest)                                                  | 5/17/24 |
 | [Why don’t we talk about minifying CSS anymore?](https://blog.sentry.io/why-dont-we-talk-about-minifying-css/)                                                                                                        | 5/11/24 |
