@@ -69,6 +69,7 @@
 * [Navigation](navigation.md)
 * [Nesting](nesting.md)
 * [Performance](performance.md)
+* [PHP](php.md)
 * [Portfolio](portfolio.md)
 * [Productivity](productivity.md)
 * [Resources](resources.md)
