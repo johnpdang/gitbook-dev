@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                 |         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [6 CSS animation libraries to bring your project to life in 2025](https://blog.logrocket.com/6-css-animation-libraries-2025/?ref=dailydev)                                                                      | 7/15/25 |
 | [From Static to Dynamic: 3 Micro-Animations Every Web Developer Can Master with Rive](https://app.daily.dev/posts/from-static-to-dynamic-3-micro-animations-every-web-developer-can-master-with-rive-isee5ajqf) | 7/7/25  |
 | [Best SVGs for quick landing pages!](https://tools.ui-layouts.com/svg-line-draw?ref=dailydev)                                                                                                                   | 6/8/25  |
 | [Animated Product Grid Preview with GSAP & Clip-Path](https://tympanus.net/codrops/2025/05/27/animated-product-grid-preview-with-gsap-clip-path/?ref=dailydev)                                                  | 6/6/25  |
