@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [Made my first Portfolio ever, pls roast it :)](https://app.daily.dev/posts/made-my-first-portfolio-ever-pls-roast-it--5djttqlsl)                                              | 7/20/25  |
 | [Simple yet modern animated portfolio](https://app.daily.dev/posts/simple-yet-modern-animated-portfolio-kgkctjsdz)                                                             | 2/10/25  |
 | [🎉 Excited to Share My New Portfolio Website!](https://app.daily.dev/posts/portfolio-website-xeabdescs)                                                                       | 11/26/24 |
 | [✧˚ Outstanding Portfolio for the inspiration - 11](https://app.daily.dev/posts/outstanding-portfolio-for-the-inspiration---11-adusfqgnv)                                      | 10/15/24 |
