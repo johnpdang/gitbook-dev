@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                               |          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [skiper](https://skiper-ui.com/docs/components/image-cursortrail)                                                                                                                                                             | 7/24/25  |
 | [Fancy Components](https://www.fancycomponents.dev/docs/components/text/text-rotate)                                                                                                                                          | 3/27/25  |
 | [Free Incredible Animated Components](https://app.daily.dev/posts/free-incredible-animated-components-elle9kygq)                                                                                                              | 3/22/25  |
 | [A CSS-Only Star Rating Component and More! (Part 1)](https://app.daily.dev/posts/a-css-only-star-rating-component-and-more-part-1--lmftbq3ue)                                                                                | 3/1/25   |
