@@ -4,6 +4,7 @@
 
 |                                                                                                                                                                       |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Free for Developers](https://free-for.dev/?ref=dailydev#/?id=web-hosting)                                                                                            | 8/4/25   |
 | [Freesets](https://freesets.dev/tools)                                                                                                                                | 7/25/25  |
 | [Create Beautifull Screenshots](https://postspark.app/?ref=dailydev)                                                                                                  | 3/4/25   |
 | [11 Free Must-Know Websites for Every Developer](https://dev.to/kafeel_ahmad/11-free-must-know-websites-for-every-developer-22g6?ref=dailydev)                        | 2/23/25  |
