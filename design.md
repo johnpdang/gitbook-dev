@@ -4,6 +4,7 @@
 
 |                                                                                                                                                          |         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [1000+ website design ideas (categorized by section)](https://devmeetsdevs.com/search/?ref=dailydev)                                                     | 8/7/25  |
 | [600+ Free UI Design Assets!](https://app.daily.dev/posts/600-free-ui-design-assets--0y2i3dm1a)                                                          | 7/12/25 |
 | [15 Best Website Concepts Every Web Designer Should Know](https://app.daily.dev/posts/15-best-website-concepts-every-web-designer-should-know-ka0iigykm) | 6/27/25 |
 | [Liquid Glass - New Design from Apple](https://www.youtube.com/watch?v=m6WMwSj_EbA)                                                                      | 6/16/25 |
