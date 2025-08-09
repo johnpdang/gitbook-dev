@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                       |         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Make any website load faster ](https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html?ref=dailydev)                                                                                            | 8/9/25  |
 | [Frontend Performance Checklist](https://crystallize.com/blog/frontend-performance-checklist?ref=dailydev)                                                                                                            | 7/4/25  |
 | [14 web performance tips for 2025](https://app.daily.dev/posts/14-web-performance-tips-for-2025-3xchmwgai)                                                                                                            | 6/30/25 |
 | [5 easy tips to improve your personal website performance](https://dev.to/whitep4nth3r/5-easy-tips-to-improve-your-personal-website-performance-32ng?context=digest)                                                  | 5/17/24 |
