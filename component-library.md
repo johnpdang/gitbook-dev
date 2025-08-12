@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                               |          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Kibo UI](https://app.daily.dev/posts/if-you-re-using-shadcn-ui-in-your-projects-this-addon-might-be-exactly-what-you-re-missing-it-br-omfusrxea)                                                                             | 8/12/25  |
 | [skiper](https://skiper-ui.com/docs/components/image-cursortrail)                                                                                                                                                             | 7/24/25  |
 | [Fancy Components](https://www.fancycomponents.dev/docs/components/text/text-rotate)                                                                                                                                          | 3/27/25  |
 | [Free Incredible Animated Components](https://app.daily.dev/posts/free-incredible-animated-components-elle9kygq)                                                                                                              | 3/22/25  |
