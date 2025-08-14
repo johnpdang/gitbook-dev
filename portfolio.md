@@ -2,6 +2,8 @@
 
 |                                                                                                                                                                                |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [Chánh Đại](https://chanhdai.com/)                                                                                                                                             | 8/14/25  |
+| [My Portfolio Website – Clean, Modern & Open Source](https://alshaer.vercel.app/)                                                                                              | 8/14/25  |
 | [Modern portfolio template](https://app.daily.dev/posts/modern-portfolio-template-amzerloru)                                                                                   | 7/29/25  |
 | [Made my first Portfolio ever, pls roast it :)](https://app.daily.dev/posts/made-my-first-portfolio-ever-pls-roast-it--5djttqlsl)                                              | 7/20/25  |
 | [Simple yet modern animated portfolio](https://app.daily.dev/posts/simple-yet-modern-animated-portfolio-kgkctjsdz)                                                             | 2/10/25  |
