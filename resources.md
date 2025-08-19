@@ -4,6 +4,7 @@
 
 |                                                                                                                                                                       |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Design Resources For Developers 🔥](https://app.daily.dev/posts/design-resources-for-developers--wztyzmipq)                                                          | 8/19/25  |
 | [Free for Developers](https://free-for.dev/?ref=dailydev#/?id=web-hosting)                                                                                            | 8/4/25   |
 | [Freesets](https://freesets.dev/tools)                                                                                                                                | 7/25/25  |
 | [Create Beautifull Screenshots](https://postspark.app/?ref=dailydev)                                                                                                  | 3/4/25   |
