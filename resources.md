@@ -4,6 +4,7 @@
 
 |                                                                                                                                                                       |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [9 Useful Coding Tools Every Developer Should Bookmark 📚🧑‍💻](https://dev.to/madza/9-useful-coding-tools-every-developer-should-bookmark-6d6?ref=dailydev)          | 8/20/25  |
 | [Design Resources For Developers 🔥](https://app.daily.dev/posts/design-resources-for-developers--wztyzmipq)                                                          | 8/19/25  |
 | [Free for Developers](https://free-for.dev/?ref=dailydev#/?id=web-hosting)                                                                                            | 8/4/25   |
 | [Freesets](https://freesets.dev/tools)                                                                                                                                | 7/25/25  |
