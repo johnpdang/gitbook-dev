@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                 |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [The Ultimate Front-End Performance Playbook (2025)](https://blog.curbanii.net/the-ultimate-front-end-performance-playbook-2025/?ref=dailydev)                                                                                  | 9/8/25  |
 | [Stop Relying on Google Fonts CDN: How I Self-Hosted for Maximum Performance on WordPress](https://pixicstudio.medium.com/stop-relying-on-google-fonts-cdn-how-i-self-hosted-for-maximum-performance-on-wordpress-2e107e9ef11e) | 8/10/25 |
 | [Make any website load faster ](https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html?ref=dailydev)                                                                                                      | 8/9/25  |
 | [Frontend Performance Checklist](https://crystallize.com/blog/frontend-performance-checklist?ref=dailydev)                                                                                                                      | 7/4/25  |
