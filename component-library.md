@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                               |          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [A powerful UI library to design e-commerce web sites](https://app.daily.dev/posts/a-powerful-ui-library-to-design-e-commerce-web-sites-hvdrqcgml)                                                                            | 9/10/25  |
 | [ScrollX UI – Interactive React Components for Modern UIs](https://scrollx-ui.vercel.app/?ref=dailydev)                                                                                                                       | 8/15/25  |
 | [Kibo UI](https://app.daily.dev/posts/if-you-re-using-shadcn-ui-in-your-projects-this-addon-might-be-exactly-what-you-re-missing-it-br-omfusrxea)                                                                             | 8/12/25  |
 | [skiper](https://skiper-ui.com/docs/components/image-cursortrail)                                                                                                                                                             | 7/24/25  |
