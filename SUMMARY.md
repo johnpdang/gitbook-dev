@@ -32,6 +32,7 @@
 * [Design](design.md)
 * [Hosting](hosting.md)
 * [Docker](docker.md)
+* [Documentation](documentation.md)
 * [Domains](domains.md)
 * [eCommerce](ecommerce.md)
 * [Education](education/README.md)
