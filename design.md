@@ -4,6 +4,7 @@
 
 |                                                                                                                                                                                                   |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [6 Design Resources That Make Paid Tools Look Useless](https://medium.com/@hii_mohit/6-design-resources-that-make-paid-tools-look-useless-32e86f218e4e)                                           | 9/14/25 |
 | [Emerging Web Design Trends for 2025: A Guide to Future-Proof Your Website](https://www.usmancode.com/blog/emerging-web-design-trends-for-2025-a-guide-to-future-proof-your-website?ref=dailydev) | 8/9/25  |
 | [1000+ website design ideas (categorized by section)](https://devmeetsdevs.com/search/?ref=dailydev)                                                                                              | 8/7/25  |
 | [600+ Free UI Design Assets!](https://app.daily.dev/posts/600-free-ui-design-assets--0y2i3dm1a)                                                                                                   | 7/12/25 |
