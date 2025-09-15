@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Generate svg website Backgrounds](https://creatica.app/?ref=dailydev)                                                                                                                                                                | 9/15/25   |
 | [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/?from=newsletter)                                                                                                                       | 7/21/25   |
 | [A beautiful library with SVG logos](https://app.daily.dev/posts/w92q8faly)                                                                                                                                                           | 6/9/25    |
 | [Mastering SVG Arcs — Smashing Magazine](https://www.smashingmagazine.com/2024/12/mastering-svg-arcs/?ref=dailydev)                                                                                                                   | 1/22/25   |
