@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                            |         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Yes the buildings dont exist anymore... but wait...neither do you 🤔](https://www.youtube.com/watch?v=Fy8kyS4RJbU\&t=25s)                                                                                 | 9/17/25 |
 | [Moondream](https://moondream.ai/?ref=dailydev)                                                                                                                                                            | 9/7/25  |
 | [prompts.chat](https://prompts.chat/)                                                                                                                                                                      | 7/14/25 |
 | [The Junior Developer Extinction: We’re All Building the Next Programming Dark Age](https://generativeai.pub/the-junior-developer-extinction-were-all-building-the-next-programming-dark-age-f66711c09f25) | 7/10/25 |
