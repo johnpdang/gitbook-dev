@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                 |         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [5 CSS & JavaScript Animation Libraries for Web Developers](https://www.surajon.dev/5-css-javascript-animation-libraries-for-web-developers?ref=dailydev)                                                       | 9/21/25 |
 | [Purposeful animations](https://emilkowal.ski/ui/you-dont-need-animations?ref=dailydev)                                                                                                                         | 9/18/25 |
 | [6 CSS animation libraries to bring your project to life in 2025](https://blog.logrocket.com/6-css-animation-libraries-2025/?ref=dailydev)                                                                      | 7/15/25 |
 | [From Static to Dynamic: 3 Micro-Animations Every Web Developer Can Master with Rive](https://app.daily.dev/posts/from-static-to-dynamic-3-micro-animations-every-web-developer-can-master-with-rive-isee5ajqf) | 7/7/25  |
