@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                 |         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Motion Highlights #13](https://tympanus.net/codrops/2025/09/22/motion-highlights-13/?ref=dailydev)                                                                                                             | 9/22/25 |
 | [5 CSS & JavaScript Animation Libraries for Web Developers](https://www.surajon.dev/5-css-javascript-animation-libraries-for-web-developers?ref=dailydev)                                                       | 9/21/25 |
 | [Purposeful animations](https://emilkowal.ski/ui/you-dont-need-animations?ref=dailydev)                                                                                                                         | 9/18/25 |
 | [6 CSS animation libraries to bring your project to life in 2025](https://blog.logrocket.com/6-css-animation-libraries-2025/?ref=dailydev)                                                                      | 7/15/25 |
