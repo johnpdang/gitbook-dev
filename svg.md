@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Free online svg converter](https://app.daily.dev/posts/free-online-svg-converter-brunwgcmk)                                                                                                                                          | 10/2/25   |
 | [Generate svg website Backgrounds](https://creatica.app/?ref=dailydev)                                                                                                                                                                | 9/15/25   |
 | [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/?from=newsletter)                                                                                                                       | 7/21/25   |
 | [A beautiful library with SVG logos](https://app.daily.dev/posts/w92q8faly)                                                                                                                                                           | 6/9/25    |
