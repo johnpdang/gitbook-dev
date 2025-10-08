@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                            |         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Introducing Notion 3.0](https://app.daily.dev/posts/lwhyeoqxe)                                                                                                                                            | 10/8/25 |
 | [Yes the buildings dont exist anymore... but wait...neither do you 🤔](https://www.youtube.com/watch?v=Fy8kyS4RJbU\&t=25s)                                                                                 | 9/17/25 |
 | [Moondream](https://moondream.ai/?ref=dailydev)                                                                                                                                                            | 9/7/25  |
 | [prompts.chat](https://prompts.chat/)                                                                                                                                                                      | 7/14/25 |
