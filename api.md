@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                          |         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Faker](https://fakerjs.dev/?ref=dailydev)                                                                                                                                               | 10/10/25 |
 | [Unit Test a REST API? Everything You Need to Know](https://www.testim.io/blog/unit-test-rest-api/?ref=dailydev)                                                                         | 6/3/25  |
 | [16 API Terms You Should Know](https://blog.amigoscode.com/p/16-api-terms-you-should-know?ref=dailydev)                                                                                  | 5/9/25  |
 | [Free Public APIs for Developers](https://app.daily.dev/posts/free-public-apis-for-developers-blxinbu80)                                                                                 | 5/5/25  |
