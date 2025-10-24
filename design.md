@@ -4,6 +4,7 @@
 
 |                                                                                                                                                                                                   |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [The Final Resources for Designers & UI Developers](https://app.daily.dev/posts/a-huge-library-of-tools-and-resources-for-ui-developers-visit-finalui-com-ap61fcqms)                              | 10/24/25 |
 | [Common UX mistakes everyone still makes 2.0](https://app.daily.dev/posts/common-ux-mistakes-everyone-still-makes-2-0-qwh7kzzcr)                                                                  | 10/23/25 |
 | [Design Systems: The True Source of Frontend Peace How Design Systems can save you](https://blog.codeminer42.com/design-systems-the-true-source-of-frontend-peace/?ref=dailydev)                  | 10/18/25 |
 | [6 Design Resources That Make Paid Tools Look Useless](https://medium.com/@hii_mohit/6-design-resources-that-make-paid-tools-look-useless-32e86f218e4e)                                           | 9/14/25 |
