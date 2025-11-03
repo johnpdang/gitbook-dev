@@ -12,6 +12,7 @@
     * [Console](browsers/chrome/console.md)
     * [Dev tools](browsers/chrome/dev-tools.md)
     * [Extensions](browsers/chrome/extensions.md)
+  * [Firefox](browsers/firefox.md)
 * [Bundler / taskrunner](taskrunners.md)
 * [Buttons](buttons.md)
 * [Cache](cache.md)
