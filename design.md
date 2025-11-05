@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                   |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Design & Dev Tools For Creators](https://design.dev/?ref=dailydev)                                                                                                                               | 11/5/25  |
 | [Intuitive Interfaces: What Actually Makes Them Clear](https://uxplanet.org/intuitive-interfaces-what-actually-makes-them-clear-caad571e07eb)                                                     | 11/2/25  |
 | [The 5 UI fundamentals a developer must know](https://blog.codeminer42.com/the-5-ui-fundamentals-a-developer-must-know/?ref=dailydev)                                                             | 10/31/25 |
 | [The Two Button Problem – Frontend Masters Blog](https://frontendmasters.com/blog/the-two-button-problem/?ref=dailydev)                                                                           | 10/30/25 |
