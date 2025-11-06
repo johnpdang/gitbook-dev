@@ -4,6 +4,7 @@
 
 |                                                                                                                                                                                                      |          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Top 10 Free Email Signature Generators in 2025](https://app.daily.dev/posts/top-10-free-email-signature-generators-in-2025-w7luq2trh)                                                               | 11/6/25  |
 | [My Favorite Front-End Tools: A Developer's Arsenal for Modern Web Development](https://blog.curbanii.net/my-favorite-front-end-tools-a-developers-arsenal-for-modern-web-development/?ref=dailydev) | 9/3/25   |
 | [9 Useful Coding Tools Every Developer Should Bookmark 📚🧑‍💻](https://dev.to/madza/9-useful-coding-tools-every-developer-should-bookmark-6d6?ref=dailydev)                                         | 8/20/25  |
 | [Design Resources For Developers 🔥](https://app.daily.dev/posts/design-resources-for-developers--wztyzmipq)                                                                                         | 8/19/25  |
