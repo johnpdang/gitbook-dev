@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                   |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Schema 2025: Design systems for a new era](https://www.figma.com/blog/schema-2025-design-systems-recap/?ref=dailydev)                                                                            | 11/17/25 |
 | [I think the next UX era will shock us: Here are my 3 big predictions](https://app.daily.dev/posts/i-think-the-next-ux-era-will-shock-us-here-are-my-3-big-predictions-olto712gq)                 | 11/9/25  |
 | [Design & Dev Tools For Creators](https://design.dev/?ref=dailydev)                                                                                                                               | 11/5/25  |
 | [Intuitive Interfaces: What Actually Makes Them Clear](https://uxplanet.org/intuitive-interfaces-what-actually-makes-them-clear-caad571e07eb)                                                     | 11/2/25  |
