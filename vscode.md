@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                 |           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Visual Studio 2026 is here: faster, smarter, and a hit with early adopters](https://app.daily.dev/posts/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters-yf9ph3v01)                                     | 11/20/25  |
 | [The ULTIMATE VS Code Setup - Extensions & Settings 2025](https://app.daily.dev/posts/the-ultimate-vs-code-setup---extensions-settings-2025-k9su1jdco)                                                                          | 7/23/25   |
 | [10 VS Code extensions for maximum frontend development productivity](https://dev.to/oyegoke/10-vs-code-extensions-for-maximum-frontend-development-productivity-383h)                                                          | 4/27/24   |
 | [9 VSCode Extensions You Can’t Ignore as a Developer](https://javascript.plainenglish.io/9-vscode-extensions-you-cant-ignore-as-a-developer-f5e39559e9a1)                                                                       | 9/30/23   |
