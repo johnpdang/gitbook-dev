@@ -97,6 +97,7 @@
   * [SSH](terminal/ssh.md)
 * [Tools](generators.md)
 * [Variable](variable.md)
+* [Video](video.md)
 * [Viewport](viewport.md)
 * [VIM](vim.md)
 * [VScode](vscode.md)
