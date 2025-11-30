@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                   |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [15 Best AI Tools for Designers in 2026](https://www.builder.io/blog/best-ai-tools-for-designers?ref=dailydev)                                                                                    | 11/30/25 |
 | [Schema 2025: Design systems for a new era](https://www.figma.com/blog/schema-2025-design-systems-recap/?ref=dailydev)                                                                            | 11/17/25 |
 | [I think the next UX era will shock us: Here are my 3 big predictions](https://app.daily.dev/posts/i-think-the-next-ux-era-will-shock-us-here-are-my-3-big-predictions-olto712gq)                 | 11/9/25  |
 | [Design & Dev Tools For Creators](https://design.dev/?ref=dailydev)                                                                                                                               | 11/5/25  |
