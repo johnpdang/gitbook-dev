@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                   |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Designing Design Systems](https://tkdodo.eu/blog/designing-design-systems?ref=dailydev)                                                                                                          | 12/6/25  |
 | [Is retro design making a comeback?](https://app.daily.dev/posts/is-retro-design-making-a-comeback--se6l9h1hz)                                                                                    | 12/4/25  |
 | [15 Best AI Tools for Designers in 2026](https://www.builder.io/blog/best-ai-tools-for-designers?ref=dailydev)                                                                                    | 11/30/25 |
 | [Schema 2025: Design systems for a new era](https://www.figma.com/blog/schema-2025-design-systems-recap/?ref=dailydev)                                                                            | 11/17/25 |
