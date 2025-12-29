@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                 |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| <p><a href="https://lucide-animated.com/?ref=dailydev">Beautifully crafted<br>animated icons*</a></p>                                                                                                           | 12/29/25 |
 | [Animations that should not exist on the web](https://app.daily.dev/posts/animations-that-should-not-exist-on-the-web-c5q8sh7v4)                                                                                | 11/29/25 |
 | [Clock made of clocks](https://app.daily.dev/posts/qbxxldsge)                                                                                                                                                   | 10/3/25  |
 | [Motion Highlights #13](https://tympanus.net/codrops/2025/09/22/motion-highlights-13/?ref=dailydev)                                                                                                             | 9/22/25  |
