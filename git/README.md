@@ -1,7 +1,8 @@
 # Git
 
-| [Git Cheat Sheet – 50 Git Commands You Should Know](https://app.daily.dev/posts/git-cheat-sheet-50-git-commands-you-should-know--ltw6krh5)                                                                                | 4/9/25   |
+| [Developers Are Gaming Their GitHub Profiles](https://app.daily.dev/posts/r5a3mpcwz)                                                                                                                                      | 12/31/25 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Git Cheat Sheet – 50 Git Commands You Should Know](https://app.daily.dev/posts/git-cheat-sheet-50-git-commands-you-should-know--ltw6krh5)                                                                                | 4/9/25   |
 | [One-click merge conflict resolution now in the web interface](https://app.daily.dev/posts/one-click-merge-conflict-resolution-now-in-the-web-interface-ktigv6pin)                                                        | 10/22/25 |
 | [10 new Git commands you should start using today](https://appwrite.io/blog/post/10-git-commands-you-should-start-using?ref=dailydev)                                                                                     | 12/16/24 |
 | [Mastering Git: Cheatsheets, Commands, and Interview Prep](https://dev.to/nirmalyax/mastering-github-cheatsheets-commands-and-interview-prep-49c9)                                                                        | 4/30/24  |
