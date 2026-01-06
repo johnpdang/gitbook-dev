@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [🚀 Just Launched My Portfolio! 🎉](https://kavinda-nine.vercel.app/)                                                                                                          | 1/6/26   |
 | [Chánh Đại](https://chanhdai.com/)                                                                                                                                             | 8/14/25  |
 | [My Portfolio Website – Clean, Modern & Open Source](https://alshaer.vercel.app/)                                                                                              | 8/14/25  |
 | [Modern portfolio template](https://app.daily.dev/posts/modern-portfolio-template-amzerloru)                                                                                   | 7/29/25  |
