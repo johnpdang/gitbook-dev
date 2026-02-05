@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                            |         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [How We Use AI to Turn Figma Designs into Production Code](https://engineering.monday.com/how-we-use-ai-to-turn-figma-designs-into-production-code/?ref=dailydev)                                          | 2/5/26  |
 | [Introducing Notion 3.0](https://app.daily.dev/posts/lwhyeoqxe)                                                                                                                                            | 10/8/25 |
 | [Yes the buildings dont exist anymore... but wait...neither do you 🤔](https://www.youtube.com/watch?v=Fy8kyS4RJbU\&t=25s)                                                                                 | 9/17/25 |
 | [Moondream](https://moondream.ai/?ref=dailydev)                                                                                                                                                            | 9/7/25  |
