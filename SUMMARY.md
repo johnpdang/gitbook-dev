@@ -93,6 +93,7 @@
 * [State](state.md)
 * [Supports](supports.md)
 * [SVG](svg.md)
+* [Table](table.md)
 * [Tech](tech.md)
 * [Terminal](terminal/README.md)
   * [Aliases](terminal/aliases.md)
