@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                            |         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Claude Code Skills are the Future of Frontend](https://app.daily.dev/posts/claude-code-skills-are-the-future-of-frontend-7amdnla3s)                                                                       | 2/27/26 |
 | [How We Use AI to Turn Figma Designs into Production Code](https://engineering.monday.com/how-we-use-ai-to-turn-figma-designs-into-production-code/?ref=dailydev)                                          | 2/5/26  |
 | [Introducing Notion 3.0](https://app.daily.dev/posts/lwhyeoqxe)                                                                                                                                            | 10/8/25 |
 | [Yes the buildings dont exist anymore... but wait...neither do you 🤔](https://www.youtube.com/watch?v=Fy8kyS4RJbU\&t=25s)                                                                                 | 9/17/25 |
