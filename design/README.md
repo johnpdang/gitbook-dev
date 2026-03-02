@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                   |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [How to Create Design System Documentation: A Step-by-Step Guide](https://www.netguru.com/blog/design-system-documentation?ref=dailydev)                                                          | 3/2/26   |
 | [Design Principles Unpacked, No. 1: Alignment](https://www.telerik.com/blogs/design-principles-unpacked-no-1-alignment?ref=dailydev)                                                              | 3/1/26   |
 | [1000+ website design ideas (categorized by section)](https://devmeetsdevs.com/search/?ref=dailydev)                                                                                              | 1/24/26  |
 | [Designing Design Systems](https://tkdodo.eu/blog/designing-design-systems?ref=dailydev)                                                                                                          | 12/6/25  |
