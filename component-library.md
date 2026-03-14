@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                               |          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Very Good Components](https://www.goodcomponents.io/components/expanding-gallery)                                                                                                                                            | 3/14/26  |
 | [Just Another Beautiful UI Library...](https://www.vengenceui.com/)                                                                                                                                                           | 2/8/26   |
 | [ReUI](https://reui.io/docs/avatar)                                                                                                                                                                                           | 12/1/25  |
 | [A powerful UI library to design e-commerce web sites](https://app.daily.dev/posts/a-powerful-ui-library-to-design-e-commerce-web-sites-hvdrqcgml)                                                                            | 9/10/25  |
