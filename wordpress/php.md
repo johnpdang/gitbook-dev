@@ -1,9 +1,10 @@
 # PHP
 
-|  |  |
-| :--- | :--- |
-| [PHP is a great language](https://gomakethings.com/php-is-a-great-language/) | 6/14/2021 |
-| [date documentation](https://www.php.net/manual/en/function.date.php) | 12/10/2019 |
+|                                                                                                                     |            |
+| ------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [PHP-only block registration](https://make.wordpress.org/core/2026/03/03/php-only-block-registration/?ref=dailydev) | 3/30/26    |
+| [PHP is a great language](https://gomakethings.com/php-is-a-great-language/)                                        | 6/14/2021  |
+| [date documentation](https://www.php.net/manual/en/function.date.php)                                               | 12/10/2019 |
 
 ### Display contents of variable
 
@@ -38,11 +39,10 @@ setcookie(cookie_name, cookie_value, [expiry_time], [cookie_path], [domain], [se
 ?>
 ```
 
-|  |  |
-| :--- | :--- |
-| asort | This function is used to sort the array using the values. |
-| &lt;&lt;&lt;EOT | acronym for `end of text`, string delimiter |
-| ksort | This function is used to sort the array using the key. |
-| [print\_r](https://www.php.net/manual/en/function.print-r.php) | Prints human-readable information about a variable |
-| var\_dump | browser will display all contents of that variable |
-
+|                                                                |                                                           |
+| -------------------------------------------------------------- | --------------------------------------------------------- |
+| asort                                                          | This function is used to sort the array using the values. |
+| <<\<EOT                                                        | acronym for `end of text`, string delimiter               |
+| ksort                                                          | This function is used to sort the array using the key.    |
+| [print\_r](https://www.php.net/manual/en/function.print-r.php) | Prints human-readable information about a variable        |
+| var\_dump                                                      | browser will display all contents of that variable        |
