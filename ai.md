@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                            |         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Why AI Sucks At Front End](https://nerdy.dev/why-ai-sucks-at-front-end?ref=dailydev)                                                                                                                      | 4/13/26 |
 | [Claude Code Skills are the Future of Frontend](https://app.daily.dev/posts/claude-code-skills-are-the-future-of-frontend-7amdnla3s)                                                                       | 2/27/26 |
 | [How We Use AI to Turn Figma Designs into Production Code](https://engineering.monday.com/how-we-use-ai-to-turn-figma-designs-into-production-code/?ref=dailydev)                                          | 2/5/26  |
 | [Introducing Notion 3.0](https://app.daily.dev/posts/lwhyeoqxe)                                                                                                                                            | 10/8/25 |
