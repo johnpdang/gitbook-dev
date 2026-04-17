@@ -1,9 +1,10 @@
 # Plugins
 
-|                                                                                                                                                                                                             |        |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| [@wordpress/build, the next generation of WordPress plugin build tooling](https://developer.wordpress.org/news/2026/04/wordpress-build-the-next-generation-of-wordpress-plugin-build-tooling/?ref=dailydev) | 4/3/26 |
-| [20 of the best WordPress plugins for web designers (+ what to avoid!)](https://getflywheel.com/layout/best-plugins-web-designers/)                                                                         | 9/24   |
+|                                                                                                                                                                                                             |         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [A rich hacker just penetrated 31 WordPress plugins...](https://app.daily.dev/posts/a-rich-hacker-just-penetrated-31-wordpress-plugins--pqgvfajzf)                                                          | 4/17/26 |
+| [@wordpress/build, the next generation of WordPress plugin build tooling](https://developer.wordpress.org/news/2026/04/wordpress-build-the-next-generation-of-wordpress-plugin-build-tooling/?ref=dailydev) | 4/3/26  |
+| [20 of the best WordPress plugins for web designers (+ what to avoid!)](https://getflywheel.com/layout/best-plugins-web-designers/)                                                                         | 9/24    |
 
 |                                         |                                                                                                                                           |
 | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
