@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                   |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [is this the end of designers?](https://app.daily.dev/posts/gv3xoae7y)                                                                                                                            | 4/19/26  |
 | [How I Do Design](https://app.daily.dev/posts/zogggodjw)                                                                                                                                          | 3/9/26   |
 | [How to Create Design System Documentation: A Step-by-Step Guide](https://www.netguru.com/blog/design-system-documentation?ref=dailydev)                                                          | 3/2/26   |
 | [Design Principles Unpacked, No. 1: Alignment](https://www.telerik.com/blogs/design-principles-unpacked-no-1-alignment?ref=dailydev)                                                              | 3/1/26   |
