@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [I added a spring mode to my animated SVG landscape](https://stuffandnonsense.co.uk/blog/i-added-a-spring-mode-to-my-animated-svg-landscape?ref=dailydev)                                                                             | 4/21/26   |
 | [Free online svg converter](https://app.daily.dev/posts/free-online-svg-converter-brunwgcmk)                                                                                                                                          | 10/2/25   |
 | [Generate svg website Backgrounds](https://creatica.app/?ref=dailydev)                                                                                                                                                                | 9/15/25   |
 | [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/?from=newsletter)                                                                                                                       | 7/21/25   |
