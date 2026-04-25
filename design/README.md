@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                   |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Stitch’s DESIGN.md format is now open-source](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-design-md/?ref=dailydev)                                              | 4/25/26  |
 | [is this the end of designers?](https://app.daily.dev/posts/gv3xoae7y)                                                                                                                            | 4/19/26  |
 | [How I Do Design](https://app.daily.dev/posts/zogggodjw)                                                                                                                                          | 3/9/26   |
 | [How to Create Design System Documentation: A Step-by-Step Guide](https://www.netguru.com/blog/design-system-documentation?ref=dailydev)                                                          | 3/2/26   |
