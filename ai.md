@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                            |         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Improvements to Web for AI Should Benefit All Users](https://app.daily.dev/posts/improvements-to-web-for-ai-should-benefit-all-users-uvhdmliug)                                                           | 6/16/26 |
 | [Software engineering may no longer be a lifetime career](https://app.daily.dev/posts/software-engineering-may-no-longer-be-a-lifetime-career-uszacmbn5)                                                   | 4/27/26 |
 | [So AI is making me Lazy...](https://app.daily.dev/posts/so-ai-is-making-me-lazy--zb7ov5tfy)                                                                                                               | 4/18/26 |
 | [Why AI Sucks At Front End](https://nerdy.dev/why-ai-sucks-at-front-end?ref=dailydev)                                                                                                                      | 4/13/26 |
