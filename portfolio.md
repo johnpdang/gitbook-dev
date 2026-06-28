@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                     |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Portfolite: Free Personal Website Template by Framebase](https://www.framer.com/community/marketplace/templates/portfolite/?ref=dailydev)                                                                          | 6/28/26  |
 | [Always Building, Always Learning: Cyd Stumpel’s Journey Through the Modern Web](https://tympanus.net/codrops/2026/06/17/always-building-always-learning-cyd-stumpels-journey-through-the-modern-web/?ref=dailydev) | 6/18/26  |
 | [🚀 Just Launched My Portfolio! 🎉](https://kavinda-nine.vercel.app/)                                                                                                                                               | 1/6/26   |
 | [Chánh Đại](https://chanhdai.com/)                                                                                                                                                                                  | 8/14/25  |
