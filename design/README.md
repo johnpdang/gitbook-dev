@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                 |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Do Websites Need to Function Exactly the Same on Every Platform?](https://www.bram.us/2026/06/21/do-websites-need-to-function-exactly-the-same-on-every-platform/?ref=dailydev)                                                | 7/9/26   |
 | [Designing A Better Lou: Reducing Cognitive Load Through Design, Content, and Systems](https://tympanus.net/codrops/2026/06/16/designing-a-better-lou-reducing-cognitive-load-through-design-content-and-systems/?ref=dailydev) | 6/21/26  |
 | [Stitch’s DESIGN.md format is now open-source](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-design-md/?ref=dailydev)                                                                            | 4/25/26  |
 | [is this the end of designers?](https://app.daily.dev/posts/gv3xoae7y)                                                                                                                                                          | 4/19/26  |
