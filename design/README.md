@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                 |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Designers already think in React](https://thoughtbot.com/blog/designers-already-think-in-react?via=dailydev)                                                                                                                   | 9/7/26   |
 | [Do Websites Need to Function Exactly the Same on Every Platform?](https://www.bram.us/2026/06/21/do-websites-need-to-function-exactly-the-same-on-every-platform/?ref=dailydev)                                                | 7/9/26   |
 | [Designing A Better Lou: Reducing Cognitive Load Through Design, Content, and Systems](https://tympanus.net/codrops/2026/06/16/designing-a-better-lou-reducing-cognitive-load-through-design-content-and-systems/?ref=dailydev) | 6/21/26  |
 | [Stitch’s DESIGN.md format is now open-source](https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-design-md/?ref=dailydev)                                                                            | 4/25/26  |
