@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                            |         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [The asteroid currently hitting frontend web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)                                                     | 9/8/26  |
 | [Illusions of AI Coding](https://tkouleris.eu/blog/illusions-of-ai-coding?via=dailydev)                                                                                                                    | 9/6/26  |
 | [Designing With Uncertainty: How AI Supercharges Probabilistic Thinking](https://www.smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/?ref=dailydev)          | 6/17/26 |
 | [Improvements to Web for AI Should Benefit All Users](https://app.daily.dev/posts/improvements-to-web-for-ai-should-benefit-all-users-uvhdmliug)                                                           | 6/16/26 |
