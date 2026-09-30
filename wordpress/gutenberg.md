@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                      |         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [What’s new in Gutenberg 24.1? (30 September)](https://make.wordpress.org/core/2026/09/30/whats-new-in-gutenberg-24-1-30-september/?via=dailydev)                    | 9/30/26 |
 | [What’s new in Gutenberg 22.4? (20 January)](https://make.wordpress.org/core/2026/01/22/whats-new-in-gutenberg-22-4-20-january/?ref=dailydev)                        | 1/28/26 |
 | [How to Work With WordPress Block Patterns](https://theeventscalendar.com/blog/wordpress/how-to-work-with-wordpress-block-patterns/)                                 | 11/13   |
 | [Getting the WordPress Block Editor to Look Like the Front End Design](https://css-tricks.com/getting-the-wordpress-block-editor-to-look-like-the-front-end-design/) | 11/4    |
