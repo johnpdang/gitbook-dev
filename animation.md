@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [CSS animations to bring your site to life](https://daily.dev/posts/css-animations-to-bring-your-site-to-life-8eov3hbfq)                                                                                                       | 10/1/26  |
 | [Making Motion Behave: Inside Vladyslav Penev’s Production-Ready Interaction Systems](https://tympanus.net/codrops/2026/02/04/making-motion-behave-inside-vladyslav-penevs-production-ready-interaction-systems/?ref=dailydev) | 2/7/26   |
 | <p><a href="https://lucide-animated.com/?ref=dailydev">Beautifully crafted<br>animated icons*</a></p>                                                                                                                          | 12/29/25 |
 | [Animations that should not exist on the web](https://app.daily.dev/posts/animations-that-should-not-exist-on-the-web-c5q8sh7v4)                                                                                               | 11/29/25 |
