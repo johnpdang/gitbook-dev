@@ -2,6 +2,7 @@
 
 |                                                                                                                                                      |         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Front-End Checklist](https://blog.master.dev/front-end-checklist/?via=dailydev)                                                                     | 10/2/26 |
 | [CSS Tools, AI & LLMs, Git/CLI Tools](https://mailchi.mp/webtoolsweekly/web-tools-631?ref=dailydev)                                                  | 8/24/25 |
 | [15 Killer Websites for Web Developers](https://javascript.plainenglish.io/15-killer-websites-for-web-developers-97113695e775)                       | 8/13/23 |
 | [Best Websites for Developers](https://dev.to/devsahil/react-v180-3942)                                                                              | 4/19/23 |
