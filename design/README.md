@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                 |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Crafting Apps: open-source creative tools](https://daily.dev/posts/x1xvtjbet)                                                                                                                                                  | 10/13/26 |
 | [Daily Design Inspiration](https://collectui.com/?via=dailydev)                                                                                                                                                                 | 9/13/26  |
 | [Designers already think in React](https://thoughtbot.com/blog/designers-already-think-in-react?via=dailydev)                                                                                                                   | 9/7/26   |
 | [Do Websites Need to Function Exactly the Same on Every Platform?](https://www.bram.us/2026/06/21/do-websites-need-to-function-exactly-the-same-on-every-platform/?ref=dailydev)                                                | 7/9/26   |
