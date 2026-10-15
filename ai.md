@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                            |          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [How to Use AI to Learn Faster](https://newsletter.eng-leadership.com/p/how-to-use-ai-to-learn-faster?via=dailydev)                                                                                        | 10/15/26 |
 | [Every app on Earth is now open source... whether it likes it or not](https://daily.dev/posts/every-app-on-earth-is-now-open-source-whether-it-likes-it-or-not-kxw0g1rhq)                                  | 10/12/26 |
 | [We're all fed up](https://daily.dev/posts/2pbrk6x8g)                                                                                                                                                      | 9/29/26  |
 | [The asteroid currently hitting frontend web development](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/)                                                     | 9/8/26   |
