@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                 |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Design Systems Directory](https://www.aidesign.guide/design-systems?via=dailydev)                                                                                                                                              | 10/21/26 |
 | [Crafting Apps: open-source creative tools](https://daily.dev/posts/x1xvtjbet)                                                                                                                                                  | 10/13/26 |
 | [Daily Design Inspiration](https://collectui.com/?via=dailydev)                                                                                                                                                                 | 9/13/26  |
 | [Designers already think in React](https://thoughtbot.com/blog/designers-already-think-in-react?via=dailydev)                                                                                                                   | 9/7/26   |
