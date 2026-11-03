@@ -66,6 +66,7 @@
 * [Images](images.md)
 * [Inspiration](inspiration.md)
 * [Links](links.md)
+* [Localization](localization.md)
 * [Logos](logos.md)
 * [Media Queries](media-queries.md)
 * [Misc](misc/README.md)
