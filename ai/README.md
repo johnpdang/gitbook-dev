@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                            |          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [MCP Explained](https://mcp-explained.com/?via=dailydev)                                                                                                                                                   | 11/7/26  |
 | [AI tutorials and articles](https://flaviocopes.com/langchain-langgraph/?via=dailydev)                                                                                                                     | 10/18/26 |
 | [How to Use AI to Learn Faster](https://newsletter.eng-leadership.com/p/how-to-use-ai-to-learn-faster?via=dailydev)                                                                                        | 10/15/26 |
 | [Every app on Earth is now open source... whether it likes it or not](https://daily.dev/posts/every-app-on-earth-is-now-open-source-whether-it-likes-it-or-not-kxw0g1rhq)                                  | 10/12/26 |
