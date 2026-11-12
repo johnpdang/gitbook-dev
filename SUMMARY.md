@@ -6,6 +6,7 @@
 * [Age gate](age-gate.md)
 * [Ai](ai/README.md)
   * [Agents](ai/agents.md)
+  * [Skills](ai/skills.md)
 * [Animation](animation.md)
 * [API](api.md)
 * [Browsers](browsers/README.md)
