@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                            |          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [7 AI tools I'M BEGGING YOU to try...](https://daily.dev/posts/7-ai-tools-i-m-begging-you-to-try--yx87jescb)                                                                                               | 11/16/26 |
 | [MCP Explained](https://mcp-explained.com/?via=dailydev)                                                                                                                                                   | 11/7/26  |
 | [AI tutorials and articles](https://flaviocopes.com/langchain-langgraph/?via=dailydev)                                                                                                                     | 10/18/26 |
 | [How to Use AI to Learn Faster](https://newsletter.eng-leadership.com/p/how-to-use-ai-to-learn-faster?via=dailydev)                                                                                        | 10/15/26 |
