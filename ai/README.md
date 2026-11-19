@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                            |          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [10 cybersecurity terms to prepare you for the age of AI](https://daily.dev/posts/10-cybersecurity-terms-to-prepare-you-for-the-age-of-ai-4thdx8dsy)                                                       | 11/19/26 |
 | [7 AI tools I'M BEGGING YOU to try...](https://daily.dev/posts/7-ai-tools-i-m-begging-you-to-try--yx87jescb)                                                                                               | 11/16/26 |
 | [MCP Explained](https://mcp-explained.com/?via=dailydev)                                                                                                                                                   | 11/7/26  |
 | [AI tutorials and articles](https://flaviocopes.com/langchain-langgraph/?via=dailydev)                                                                                                                     | 10/18/26 |
